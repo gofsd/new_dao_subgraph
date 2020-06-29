@@ -6,7 +6,6 @@ abis
 yarn.lock
 src/types
 /schema.graphql
-.env*
 build/
 src/contractsInfo.ts
 daos/mainnet/testdao*
